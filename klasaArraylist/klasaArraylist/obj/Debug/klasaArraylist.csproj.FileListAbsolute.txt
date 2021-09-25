@@ -1,0 +1,10 @@
+C:\Users\denim\source\repos\klasaArraylist\klasaArraylist\obj\Debug\klasaArraylist.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\klasaArraylist\klasaArraylist\obj\Debug\klasaArraylist.Form1.resources
+C:\Users\denim\source\repos\klasaArraylist\klasaArraylist\obj\Debug\klasaArraylist.Properties.Resources.resources
+C:\Users\denim\source\repos\klasaArraylist\klasaArraylist\obj\Debug\klasaArraylist.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\klasaArraylist\klasaArraylist\obj\Debug\klasaArraylist.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\klasaArraylist\klasaArraylist\bin\Debug\klasaArraylist.exe.config
+C:\Users\denim\source\repos\klasaArraylist\klasaArraylist\bin\Debug\klasaArraylist.exe
+C:\Users\denim\source\repos\klasaArraylist\klasaArraylist\bin\Debug\klasaArraylist.pdb
+C:\Users\denim\source\repos\klasaArraylist\klasaArraylist\obj\Debug\klasaArraylist.exe
+C:\Users\denim\source\repos\klasaArraylist\klasaArraylist\obj\Debug\klasaArraylist.pdb
